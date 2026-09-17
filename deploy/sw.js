@@ -1,5 +1,5 @@
-// 산불현장지휘 매뉴얼 서비스워커 — 오프라인 열람용 (build 1f2dc2ee0a2a)
-const CACHE = 'sanbul-1f2dc2ee0a2a';
+// 산불현장지휘 매뉴얼 서비스워커 — 오프라인 열람용 (build b8b1c7677f87)
+const CACHE = 'sanbul-b8b1c7677f87';
 const FONT_CACHE = 'sanbul-fonts';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'];
 
