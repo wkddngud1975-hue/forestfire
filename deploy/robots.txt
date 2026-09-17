@@ -1,0 +1,7 @@
+## 산불현장지휘 매뉴얼 — 검색엔진 수집 차단
+## 산불현장지휘관 업무용이라 검색 결과에 노출될 필요가 없습니다.
+## index.html 의 <meta name="robots" content="noindex"> 와
+## _headers 의 X-Robots-Tag 로 이중 차단하고 있습니다.
+
+User-agent: *
+Disallow: /

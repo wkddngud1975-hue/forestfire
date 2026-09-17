@@ -1,0 +1,6 @@
+# GitHub에는 웹 배포에 필요한 파일만 올린다.
+# 원본(src, data, tools, dist, README, 기획서 등)은 이 PC에만 둔다.
+/*
+!/deploy/
+!/.github/
+!/.gitignore
