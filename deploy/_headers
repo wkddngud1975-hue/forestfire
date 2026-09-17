@@ -11,3 +11,7 @@
 ## 법령 개정 반영 시 바로 새 버전이 보이도록 index.html 은 매번 확인
 /index.html
   Cache-Control: no-cache
+
+## 서비스워커는 항상 새로 확인해야 앱 업데이트가 전달됨
+/sw.js
+  Cache-Control: no-cache

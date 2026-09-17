@@ -1,0 +1,48 @@
+{
+  "name": "산불현장지휘 매뉴얼",
+  "short_name": "산불지휘",
+  "description": "산림재난방지법·시행령·시행규칙에 근거한 산불 현장지휘관 행동지침",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#edf1ec",
+  "theme_color": "#1e5b3a",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "대응 트리",
+      "short_name": "대응",
+      "url": "./#/respond"
+    },
+    {
+      "name": "예방 체크리스트",
+      "short_name": "예방",
+      "url": "./#/prevent"
+    },
+    {
+      "name": "참조표",
+      "url": "./#/refs"
+    }
+  ]
+}
